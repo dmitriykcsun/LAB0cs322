@@ -1,0 +1,1 @@
+This is a submission for Lab 0 for CS322, Spring 2020, Professor Benson, CSUN. Program takes a string of 1s and 0s in either the command line or as an argument to a file and transforms them into their ASCII values, the decimal values of their ASCII values, and counts the parity of the binary number. Program works as outlined in lab document.
